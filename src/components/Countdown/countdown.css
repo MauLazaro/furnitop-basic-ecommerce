@@ -1,0 +1,10 @@
+.countdown p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 74px;
+    height: 34px;
+    color: var(--secondary-dark-color);
+    background-color: var(--light-bg-color);
+    border-radius: 5px;
+}

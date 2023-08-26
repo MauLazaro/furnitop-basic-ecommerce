@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "titulo": "SECCIONAL PIRLO", 
+        "descripcion": "SECCIONAL PIRLO MEDIANO MARRON.",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/1.jpg",
+        "precio": 1999,
+        "stock": 655
+    },
+    {
+        "id": 2,
+        "titulo": "SECCIONAL LUCAS",
+        "descripcion": "SECCIONAL LUCAS GRIS.",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/2.jpg",
+        "precio": 809,
+        "stock": 973
+    },
+    {
+        "id": 3,
+        "titulo": "LÁMPARA COLGANTEANTE OBREGON",
+        "descripcion": "LÁMPARA COLGANTEANTE OBREGON E27, 1X60W.",
+        "category": "iluminacion",
+        "imagen": "./../../public/img/menu/3.png",
+        "precio": 299,
+        "stock": 168
+    },
+    {
+        "id": 4,
+        "titulo": "MESA DE COMEDOR",
+        "descripcion": "MESA DE COMEDOR TULIP BLANCO",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/4.jpg",
+        "precio": 2100,
+        "stock": 604
+    },
+    {
+        "id": 5,
+        "titulo": "BUTACA",
+        "descripcion": "BUTACA HOME PREMIUM EXPRESS SAUL",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/5.png",
+        "precio": 1599,
+        "stock": 312
+    },
+    {
+        "id": 6,
+        "titulo": "ROPERO IDEAL 6 PUERTAS",
+        "descripcion": "ROPERO IDEAL 6 PUERTAS CAFE RUSTICO",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/6.jpg",
+        "precio": 422,
+        "stock": 811
+    },
+    {
+        "id": 7,
+        "titulo": "ALFOMBRA CIRCULAR",
+        "descripcion": "ALFOMBRA CIRCULAR MITH CELESTE 120 CM DE DIÁMETRO",
+        "category": "alfombras",
+        "imagen": "./../../public/img/menu/7.png",
+        "precio": 422,
+        "stock": 860
+    },
+    {
+        "id": 8,
+        "titulo": "ESPEJO REDONDO",
+        "descripcion": "ESPEJO REDONDO DORADO SOL",
+        "category": "espejos",
+        "imagen": "./../../public/img/menu/8.jpg",
+        "precio": 96,
+        "stock": 190
+    },
+    {
+        "id": 9,
+        "titulo": "PORTAVELAS",
+        "descripcion": "PORTAVELAS CENICERO DE CERÁMICA Y METAL DORADO VENADO",
+        "category": "decoracion",
+        "imagen": "./../../public/img/menu/9.png",
+        "precio": 53,
+        "stock": 449
+    },
+    {
+        "id": 10,
+        "titulo": "CLOSET",
+        "descripcion": "CLOSET Z-90 3 PUERTAS/2CAJONES - DUNA/BLANCO",
+        "category": "muebles",
+        "imagen": "./../../public/img/menu/10.png",
+        "precio": 529,
+        "stock": 902
+    },
+    {
+        "id": 11,
+        "titulo": "TERRARIO",
+        "descripcion": "TERRARIO REDONDO SUCULENTA 12CM",
+        "category": "decoracion",
+        "imagen": "./../../public/img/menu/11.jpg",
+        "precio": 26,
+        "stock": 341
+    },
+    {
+        "id": 12,
+        "titulo": "ESPEJO DE ARCO",
+        "descripcion": "ESPEJO DE ARCO ZEUS NEGRO MADERA MDF 180 X 75CM",
+        "category": "espejos",
+        "imagen": "./../../public/img/menu/12.png",
+        "precio": 738,
+        "stock": 392
+    },
+    {
+        "id": 13,
+        "titulo": "PINA DORADA",
+        "descripcion": "PINA DORADA METAL 18CM",
+        "category": "decoracion",
+        "imagen": "./../../public/img/menu/13.jpg",
+        "precio": 59,
+        "stock": 189
+    }
+]

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Poppins:wght@300;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #03ac5d;
+    --secondary-color: #3c40c6;
+    --secondary-dark-color: #3d3c5c;
+
+    --light-bg-color: #f5f3f2;
+    --light-text-color: #7c899a;
+    --border-color: #e5e8ec;
+
+    --trans-background-color: background-color .3s color .3s;
+    --trans-background: background-color .3s;
+    --trans-color: color .3s ;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: black;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+strong{
+    font-weight: 800;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+input::placeholder{
+    color: inherit;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: calc(1.3em + 1vw);
+    font-weight: 800;
+    line-height: 1;
+}
+
+h2{
+    font-size: 2.5em;
+}
+
+h3{
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+h4{
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.container{
+    min-width: 1280px;
+    margin: 0 auto;
+    padding: 0 0.938em;
+}
+
+.column {
+    margin-left: -0.938em;
+    margin-right: -0.938em;
+}
+
+.column .row{
+    padding: 0 0.938em;
+}
+
+.flexwrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexcenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flexitem{
+    display: flex;
+    align-items: center;
+}
+
+.flexcol{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+
+
+
