@@ -280,6 +280,7 @@ form.search button:hover{
 /* Trending Products */
 .sectop{
     justify-content: space-between;
+    padding-left: 14px;
     padding-bottom: 0.5em;
     margin-bottom: 2em;
     border-bottom: 1px solid var(--border-color);
@@ -563,6 +564,7 @@ form.search button:hover{
     margin-top: 1.25em;
 }
 .products-json .rating{
+    padding-left: 14px;
     display: flex;
     align-items: center;
     gap: 0.5em;
@@ -973,7 +975,7 @@ form.search button:hover{
         font-size: 2em;
         font-weight: 800;
         text-align: center;
-        color: black;
+        color: white;
     }
     nav .mega .products .text-content .primary-button{
         color: white;
